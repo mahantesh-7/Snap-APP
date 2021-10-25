@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "278490194440",
+    "project_id": "snape-27910",
+    "storage_bucket": "snape-27910.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278490194440:android:b7c62f96208854130f27bd",
+        "android_client_info": {
+          "package_name": "com.example.snape"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278490194440-8t0mn3ga7p2qmlmgnrprsj48t0qe9pso.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIwyONtljIobrHfU7kfZfcDRFDidyVi04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278490194440-8t0mn3ga7p2qmlmgnrprsj48t0qe9pso.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
